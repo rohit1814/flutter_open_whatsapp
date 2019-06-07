@@ -1,6 +1,6 @@
 # flutter_open_whatsapp_example
 
-Demonstrates how to use the flutter_open_whatsapp plugin.
+A flutter plugin that will send whatsapp message to single user without saving the number.
 
 ## Getting Started
 
