@@ -1,10 +1,10 @@
 # Flutter Open WhatsApp
 
-   A Flutter plugin to open WhatsApp and send message to single number in Android and iOS.
+      A Flutter plugin to open WhatsApp and send message to single number in Android and iOS without saving user's number.
 
 ## Installation
 
-   To use the plugin, add 'flutter_open_whatsapp' as a dependency in your pubspec.yaml file.
+      To use the plugin, add 'flutter_open_whatsapp' as a dependency in your pubspec.yaml file.
 
 
 ## Plugin package link
