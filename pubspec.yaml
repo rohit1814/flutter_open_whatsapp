@@ -5,7 +5,7 @@ author: Rohit Kesarwani<rohitkesari1814@gmail.com>
 homepage: https://github.com/rohit1814/flutter_open_whatsapp
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
